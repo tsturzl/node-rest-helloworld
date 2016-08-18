@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-helloworld",
+  "version": "1.0.0",
+  "description": "Simple helloworld for testing deploy scripts with",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsturzl/node-rest-helloworld.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsturzl/node-rest-helloworld/issues"
+  },
+  "homepage": "https://github.com/tsturzl/node-rest-helloworld#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
